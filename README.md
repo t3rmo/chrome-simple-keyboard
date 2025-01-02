@@ -17,4 +17,5 @@ Suggestions and pull requests are welcomed!.
 
 ---
 
+The base of this project was forked in version 0.4.6 from [alex9849 - Chrome Simple Keyboard](https://github.com/alex9849/chrome-simple-keyboard)
 This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
